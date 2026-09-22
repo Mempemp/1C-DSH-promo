@@ -1,0 +1,10 @@
+name = "dsh-instruction-counter"
+main = "worker.mjs"
+compatibility_date = "2026-09-11"
+[vars]
+PAGE_ORIGIN = "https://YOUR-USERNAME.github.io"
+[[d1_databases]]
+binding = "DB"
+database_name = "dsh-instruction-clicks"
+database_id = "REPLACE_WITH_DATABASE_ID"
+
